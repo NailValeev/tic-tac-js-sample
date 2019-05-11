@@ -1,0 +1,84 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`With Snapshot Testing App shows "Sample app for Tic-Tac Mobile JavaScript SDK" 1`] = `
+<div
+  style={
+    Object {
+      "border": "1px solid #DDD",
+      "margin": 20,
+      "padding": 20,
+    }
+  }
+>
+  <div
+    className="jsx-1928146253 blue"
+  >
+    <a
+      className="jsx-1928146253 btn btn1"
+      href="/"
+      onClick={[Function]}
+    >
+      Home
+    </a>
+    <a
+      className="jsx-1928146253 btn btn2"
+      href="/userstats"
+      onClick={[Function]}
+    >
+      Users statistics
+    </a>
+    <a
+      className="jsx-1928146253 btn btn3"
+      href="/projectstats"
+      onClick={[Function]}
+    >
+      Projects statistics
+    </a>
+    <a
+      className="jsx-1928146253 btn btn4"
+      href="/plans"
+      onClick={[Function]}
+    >
+      Planned time
+    </a>
+    <a
+      className="jsx-1928146253 btn btn5"
+      href="/trends"
+      onClick={[Function]}
+    >
+      Trends
+    </a>
+  </div>
+  <h1>
+    Sample app for Tic-Tac Mobile JavaScript SDK
+  </h1>
+  <p>
+    This sample demonstrates how to use the Tic-Tac Mobile JavaScript SDK.
+  </p>
+  <p>
+    The following examples demonstrate how you can make business analitycs and build a lot of informative charts.
+  </p>
+  <p>
+    The Tic-Tac Mobile JavaScript SDK is an open source project hosted on Github: 
+  </p>
+  <a
+    alt="Tic-Tac Mobile JS SDK on Github"
+    className="btn btn1 btn-sm"
+    href="https://github.com/NailValeev/tic-tac-js-sdk"
+    target="_blank"
+  >
+    SDK on Github
+  </a>
+  <p>
+    It was developed as server-only package and distributed via npm: 
+  </p>
+  <a
+    alt="Tic-Tac Mobile JS SDK on NPM"
+    className="btn btn2 btn-sm"
+    href="https://www.npmjs.com/package/tic-tac-js-sdk"
+    target="_blank"
+  >
+    SDK on NPM
+  </a>
+</div>
+`;

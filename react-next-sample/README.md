@@ -1,0 +1,1 @@
+Sample application with Tic-tac Mobile JavaScript SDK, React.js, Next.js and Express.js
